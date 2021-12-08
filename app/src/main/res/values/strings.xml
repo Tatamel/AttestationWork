@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AttestationApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_animal">Create animal</string>
+    <string name="developers">developers:</string>
+    <string name="create">create</string>
+    <string name="animal">animal</string>
+    <string name="info">info</string>
+</resources>

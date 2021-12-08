@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/animal_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_ads_click_24"
+        android:title="@string/create" />
+    <item
+        android:id="@+id/wiki_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="@string/animal" />
+    <item
+        android:id="@+id/info_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/info" />
+
+</menu>
